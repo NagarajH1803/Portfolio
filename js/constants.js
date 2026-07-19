@@ -12,7 +12,7 @@ const PORTFOLIO_DATA = {
     roles: ["Developer", "Designer"],
     tagline: "Innovate the Tech",
     profilePic: "https://www.image2url.com/r2/default/images/1780942303890-498d1c77-1b06-4070-b0d1-c89d8a34b6c9.png",
-    resumeUrl: "https://drive.google.com/file/d/1vGkBADYdLtYDG32thUPxmHRtJeK9e16T/view?usp=sharing",
+    resumeUrl: "https://drive.google.com/uc?export=download&id=1RY72T8wumnIp1sqFYubkyS08ojJjs4OB",
     email: "nagarajhallur2003@gmail.com",
     location: "Bengaluru",
     experience: "Fresher",
